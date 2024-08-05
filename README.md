@@ -32,8 +32,14 @@ While synthetic data can initially seem beneficial, over-reliance can lead to ne
 ##  What are the consequences of out-of-control autophagy with synthetic content?
 
 ###  Theoretical Intuition
-- **Paper 1**: [Model Collapse Demystified: The Case of Regression](https://arxiv.org/abs/2402.07712), 12 Feb 2024
-  - TODO
+
+| Title | arXiv | Pub. & Date | Theoretical Model |
+|:-----:|:-----:|:-----:|:-----:|
+| [On the Stability of Iterative Retraining of Generative Models on their own Data](https://arxiv.org/abs/2310.00429) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00429) | Feb. 2024 | Gaussian and ridge regression |
+| [On the Stability of Iterative Retraining of Generative Models on their own Data](https://arxiv.org/abs/2310.00429) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00429) | Sep. 2023 | Multi-variate Gaussian |
+| [Self-Consuming Generative Models Go MAD](https://arxiv.org/abs/2307.01850) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.01850) | Jul. 2023 | Single dimensional Gaussian  |
+| [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.17493) | May 2023 | Single dimensional Gaussian |
+
 
 ### Impact of AI Autophagy on Vision Models (Quality Degradation, Mode Collapse)
 
